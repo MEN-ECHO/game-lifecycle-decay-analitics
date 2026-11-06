@@ -1,3 +1,9 @@
+# Surowy zrzut recenzji Steam (~23,5 GB). Pobranie jest opisane w README.
+data/raw/
+
+# Notatki o lokalnej maszynie. Zostają na tym komputerze.
+notebooks/local/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
